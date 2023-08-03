@@ -1,5 +1,11 @@
 # @fuel-ts/abi-typegen
 
+## 0.50.0
+
+### Patch Changes
+
+- Add `deployContract` method to contract factories generated via typegen, by [@Dhaiwat10](https://github.com/Dhaiwat10) (See [#1160](https://github.com/FuelLabs/fuels-ts/pull/1160))
+
 ## 0.49.1
 
 ## 0.49.0
